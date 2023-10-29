@@ -7,8 +7,10 @@ listing:
   categories: true
 ---
 
-Herzlich willkommen auf den Seiten des TVL Freiberg e.V.!
+## Herzlich willkommen
 
-Hier findest Du Informationen zum Verein, unseren Aktiven sowie den Übungsleiterinnen und Übungsleitern.
+Hier findest Du Informationen zu aktuellen Wettkämpfen, unseren Sportlerinnen und Sportlern sowie den Übungsleiterinnen und Übungsleitern. Schau dich um!
+
+## News
 
 Die jüngsten Neuigkeiten gibt es hier:
