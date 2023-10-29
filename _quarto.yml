@@ -1,0 +1,58 @@
+project:
+  type: website
+  output-dir: docs
+  
+lang: de
+
+website:
+  title: "TVL Freiberg e.V."
+  navbar:
+    title: "TVL Freiberg e.V."
+    
+    collapse-below: lg
+    right: 
+      - text: "Der Verein"
+        href: verein.qmd
+      - text: "Wettkämpfe"
+        menu:
+          - text: "Geplante Wettkämpfe"
+            href: wettkampfplan.qmd
+          - text: "Wettkämpfe in Freiberg"
+            href: wettkaempfe.qmd
+      - text: "Trainingszeiten"
+        href: trainingszeiten.qmd
+      - text: "Erfolge"
+        menu:
+          - text: "2023"
+            href: erfolge_2023.qmd
+          - text: "2022"
+            href: erfolge_2022.qmd
+
+  page-footer:
+    background: "#c0c0c0"
+    left: |
+      &copy; 2023 TVL Freiberg e.V.
+    center:  
+      - href: https://facebook.com/TVLFreiberg
+        icon: facebook
+        aria-label: Facebook
+      - href: https://www.instagram.com/tvlfreiberg
+        icon: instagram
+        aria-label: Instagram
+    right: |
+      [Datenschutz](/datenschutz.qmd) | [Impressum](/impressum.qmd)            
+
+format:
+  html:
+    theme: marteria
+    css: styles.css
+    toc: true
+    backgroundcolor: "#efefef"
+    # title-block-banner: "images/bahn.jpg"
+    grid: 
+      sidebar-width: 0px
+      body-width: 1000px
+      margin-width: 250px
+
+editor: visual
+

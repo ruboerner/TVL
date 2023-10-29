@@ -1,0 +1,11 @@
+---
+title: "9\\. Werfertag 2023"
+description: "Freiberg"
+date: 2023-04-01
+author: RUB
+draft: false
+categories:
+  - Erfolge
+  - Wettkampf
+---
+Ergebnisse:

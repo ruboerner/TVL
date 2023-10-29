@@ -1,0 +1,14 @@
+---
+title: Bergstadtmeeting
+date: 2023-07-08
+description: "Freiberg"
+author: RUB
+draft: false
+categories: 
+  - Wettkampf
+---
+
+Der letzte eigene Wettkampf vor der
+Sommerpause! Morgen startet unser Bergstadtmeeting auf dem Platz der Einheit.
+Hier geht es zu den
+[Liveergebnissen](www.cosa-software.de/Veranstaltungen/2023033)

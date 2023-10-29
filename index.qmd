@@ -1,0 +1,14 @@
+---
+title: ""
+listing:
+  contents: posts
+  sort: "date desc"
+  type: default
+  categories: true
+---
+
+Herzlich willkommen auf den Seiten des TVL Freiberg e.V.!
+
+Hier findest Du Informationen zum Verein, unseren Aktiven sowie den Übungsleiterinnen und Übungsleitern.
+
+Die jüngsten Neuigkeiten gibt es hier:

@@ -1,0 +1,15 @@
+---
+title: "Deutsche Meisterschaft"
+description: "8. und 9. Juli 2023 in Kassel"
+image: pauline_small.jpeg
+date: 2023-07-08
+categories:
+  - Erfolge
+  - Wettkampf
+---
+
+::: {layout-ncol="2"}
+![](pauline_small.jpeg)
+
+Unsere Starterin zu den Deutschen Meisterschaften in Kassel. Am Samstag startet Pauline über die 100 m 15:00 Uhr und am Sonntag 16:25 über die 200 m in Kassel.
+:::
