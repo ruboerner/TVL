@@ -11,6 +11,6 @@ listing:
 
 Hier findest Du Informationen zu aktuellen Wettkämpfen, unseren Sportlerinnen und Sportlern sowie den Übungsleiterinnen und Übungsleitern. Schau dich um!
 
-## News
+## Aktuelles
 
 Die jüngsten Neuigkeiten gibt es hier:
