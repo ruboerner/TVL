@@ -1,1 +1,1 @@
-Sitemap: https://ruboerner.github.io/TVL/sitemap.xml
+Sitemap: https://github.com/ruboerner/TVL/sitemap.xml
