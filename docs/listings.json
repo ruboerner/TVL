@@ -2,9 +2,13 @@
   {
     "listing": "/index.html",
     "items": [
+      "/posts/hm-mittelsachsen-2023/index.html",
+      "/posts/windberglauf-freital-2023/index.html",
+      "/posts/cross-linda-2023/index.html",
+      "/posts/rm-cross-gelenau-2023/index.html",
+      "/posts/werfertag_2023/index.html",
       "/posts/dm_2023/index.html",
-      "/posts/bergstadtmeeting_2023/index.html",
-      "/posts/werfertag_2023/index.html"
+      "/posts/bergstadtmeeting_2023/index.html"
     ]
   }
 ]

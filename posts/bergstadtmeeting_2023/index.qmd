@@ -2,13 +2,10 @@
 title: Bergstadtmeeting
 date: 2023-07-08
 description: "Freiberg"
-author: RUB
+author: Susanne Scholze
 draft: false
 categories: 
   - Wettkampf
 ---
 
-Der letzte eigene Wettkampf vor der
-Sommerpause! Morgen startet unser Bergstadtmeeting auf dem Platz der Einheit.
-Hier geht es zu den
-[Liveergebnissen](www.cosa-software.de/Veranstaltungen/2023033)
+Der letzte eigene Wettkampf vor der Sommerpause! Am 8. Juli 2023 startet unser Bergstadtmeeting auf dem Platz der Einheit. Hier geht es zu den [Ergebnissen](https://ladv.de/veranstaltung/detail/26499/Bergstadt-Meeting-Freiberg.htm)

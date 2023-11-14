@@ -1,0 +1,16 @@
+---
+title: "Windberglauf Freital"
+description: "Freital"
+date: 2023-11-05
+author: Susanne Scholze
+draft: false
+categories:
+  - Erfolge
+  - Wettkampf
+---
+
+::: {layout-ncol="2"}
+![](index.jpg)
+
+Den Sonntag genutzt und zum Cross in Linda am Start gewesen. Und wie heißt es so schön: „Er kam, sah und siegte." Bei seinem ersten Start gelang das Luan. Und auch unser zweiter Starter Finley lief souverän zu Gold.
+:::

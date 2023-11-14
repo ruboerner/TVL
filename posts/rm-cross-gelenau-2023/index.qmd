@@ -1,0 +1,17 @@
+---
+title: "Regionalmeisterschaften im Crosslauf"
+description: "Gelenau"
+date: 2023-10-21
+author: Susanne Scholze
+draft: false
+categories:
+  - Erfolge
+  - Wettkampf
+---
+
+
+::: {layout-ncol="2"}
+![](image.jpg)
+
+Erfolgreiche Regionalmeisterschaften im Crosslauf. Jan Stöcker und Finley Max Wolf bewiesen einmal mehr ihre Stärke im Ausdauerbereich und krönten sich zum Regionalmeister. Jan über die 1km in 3:29 min und Finley nahm die 2km in Angriff und lief 8:07 min. Katja Stöcker und Leeven Wolf liefen in der Altersklasse 8 einen Kilometer und belegten die Ränge eins und drei.
+:::

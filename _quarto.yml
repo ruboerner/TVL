@@ -27,6 +27,8 @@ website:
             href: erfolge_2023.qmd
           - text: "2022"
             href: erfolge_2022.qmd
+          - text: "Rekorde"
+            href: rekorde.qmd
 
   page-footer:
     background: "#c0c0c0"

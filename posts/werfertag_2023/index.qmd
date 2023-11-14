@@ -1,11 +1,14 @@
 ---
-title: "9\\. Werfertag 2023"
+title: "9. Werfertag 2023"
 description: "Freiberg"
-date: 2023-04-01
+date: 2023-09-24
 author: RUB
 draft: false
 categories:
   - Erfolge
   - Wettkampf
 ---
-Ergebnisse:
+
+Letzter Wettkampf des Mittelsächsischen Wurfcups U 18/U20-inklusive Siegerehrung!
+
+Ergebnisse sind hier zu finden: [Link](https://ladv.de/veranstaltung/detail/27223/9.-Werfertag-des-TVL-Freiberg.htm)

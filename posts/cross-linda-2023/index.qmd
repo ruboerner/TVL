@@ -1,0 +1,16 @@
+---
+title: "Crosslauf Linda"
+description: "Linda"
+date: 2023-10-29
+author: Susanne Scholze
+draft: false
+categories:
+  - Erfolge
+  - Wettkampf
+---
+
+::: {layout-ncol="2"}
+![](index.jpg)
+
+Den Sonntag genutzt und zum Cross in Linda am Start gewesen. Und wie heißt es so schön: „Kam, sah und siegte.“ Bei seinem ersten Start gelang das Luan. Und auch unser zweiter Starter Finley lief souverän zu Gold.
+:::
