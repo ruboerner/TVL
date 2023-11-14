@@ -1,5 +1,5 @@
 ---
-title: "Über diese Seite"
+title: "Über"
 ---
 
 Das ist der Webauftritt des TVL Freiberg e.V.
