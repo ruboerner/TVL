@@ -3,221 +3,219 @@ title: "Rekorde"
 ---
 
 ## TVL-Rekorde weiblich
-|Disziplin|Athletin|Jahr|Resultat|
-|:----|:----|:----|:----|
-| 50 m|Melanie Rösner|83(94)|7,51 s|
-| 60 m (Halle)|Pauline Winkler|01(23)|7,71 s|
-| 75m (U14)|Sarah Tilch|06(19) |10,02 s |
-| 75 m|Pauline Winkler|01(23)|9,84 s|
-| 100 m|Pauline Winkler|01(23)|11,82 s |
-| 150 m|Pauline Winkler|01(23)|20,01 s|
-| 150 m (Halle)|Pauline Winkler|01(22)|18,96 s|
-| 200 m|Pauline Winkler|01(23)|24,37 s |
-| 200 m (Halle)|Pauline Winkler|01(23)|25,45 s|
-| 300 m|Jessica Thiel|96(11)|42,48 s|
-| 300 m (Halle)|Jessica Thiel|96(11)|43,83 s|
-| 400 m|Juliane Flaxa|85(02)|59,10 s|
-| 400 m (Halle)|Jessica Thiel|96(12)|61,35 s|
-| 800 m|Nadine Kotte|78(94)|2:26,06 min|
-| 1500 m| | | |
-|  4x100 m StG|Ihl, Beyer, Tilch, Winkler|     (22)| 50,12 s|
-| 60 m Hürden U 14|Elisa Halang |00(13)|9,91 s|
-| 60 m Hürden (76 cm)|Jennifer Ihl|96(13)|9,54 s|
-| 60 m Hürden (84 cm)|Sarah Storch|95(16)|9,38 s|
-| 80 m Hürden|Lydia Pitzler|95(10)|12,74 s |
-| |Elisa Halang|00(15)|12,74 s|
-|100 m Hürden (76 cm)|Sophie Bachmann|98(15)|15,01 s|
-|100 m Hürden (84 cm)|Sarah Storch|95(16)|15,67 s|
-|300 m Hürden|Jessica Thiel|96(11)|47,56 s|
-|400 m  Hürden|Julia Winkler|82(12)|68,59 s|
-|Weitsprung|Jennifer Ihl|96(15)|5,50 m|
-|Hochsprung|Katharina Grobitzsch|98(23)|1,62 m|
-|Hochsprung (Halle)|Elisa Halang|00(15)|1,63 m|
-|Dreisprung|Jennifer Ihl|96(16)|11,34 m|
-|Dreisprung(Halle)|Jennifer Ihl|96(17)|11,48 m|
-|5 er Sprunglauf|Sophie Bachmann|98(16)|17,21 m|
-|Stabhochsprung|Kristin Hösel|88(08)|3,45 m|
-|Ball (200 g)|Karolin Hachenberger|84(97)|59,76 m|
-|Speer (600 g)|Katharina Grobitzsch|98(23)|39,84 m|
-|Speer (500 g)|Katharina Grobitzsch|98(13)|34,36 m|
-|Speer (400 g)|Elisa Halang|00(13)|29,55 m|
-|Diskus (1 kg)|Sophie Zeller|93(11)|36,89 m|
-|Diskus (750 g)|Elisa Halang|00(13)|26,40 m|
-|Kugel (4kg)|Sophie Zeller|93(15)|11,15 m|
-|Kugel (3kg)|Sophie Zeller|93(10)|11,80 m|
-|Kugel (2 Kg)| | | |
-|Hammer (4 kg)|Sophie Zeller|93 (13)|23,31 m|
-|Gewicht (9,08 kg)|Katharina Grobitzsch|98 (23)|6,04 m|
-|Schleuderball (1 kg)|Sophie Zeller|93 (13)|40,75 m|
-|Keule (250g)|Katharina Grobitzsch|98 (23)|47,56 m|
-|5-Kampf|Carolin Braun|90(03)|2579 Pkt.|
-|7-Kampf|Kristin Hösel|88(07)|4015 Pkt.|
-|Block Sprint/Sprung|Odette Börner|87(02)|2557 Pkt.|
-|Block Wurf|Elisa Halang|00(15)|2502 Pkt.|
-|Block Lauf|Kristin Hösel|88(03)|2452 Pkt.|
-|Werfersechskampf|Sophie Zeller|93 (13)|3068 Pkt.|
-|Werferfünfkampf|Katharina Grobitzsch|98 (23)|1817 Pkt.|
+
+| Disziplin            | Athletin                   | Jahr      | Resultat    |
+|:---------------------|:---------------------------|:----------|:------------|
+|  50 m                | Melanie Rösner             | 83(94)    | 7,51 s      |
+|  60 m (Halle)        | Pauline Winkler            | 01(23)    | 7,71 s      |
+|  75m (U14)           | Sarah Tilch                | 06(19)    | 10,02 s     |
+|  75 m                | Pauline Winkler            | 01(23)    | 9,84 s      |
+|  100 m               | Pauline Winkler            | 01(23)    | 11,82 s     |
+|  150 m               | Pauline Winkler            | 01(23)    | 20,01 s     |
+|  150 m (Halle)       | Pauline Winkler            | 01(22)    | 18,96 s     |
+|  200 m               | Pauline Winkler            | 01(23)    | 24,37 s     |
+|  200 m (Halle)       | Pauline Winkler            | 01(23)    | 25,45 s     |
+|  300 m               | Jessica Thiel              | 96(11)    | 42,48 s     |
+|  300 m (Halle)       | Jessica Thiel              | 96(11)    | 43,83 s     |
+|  400 m               | Juliane Flaxa              | 85(02)    | 59,10 s     |
+|  400 m (Halle)       | Jessica Thiel              | 96(12)    | 61,35 s     |
+|  800 m               | Nadine Kotte               | 78(94)    | 2:26,06 min |
+|  1500 m              |                            |           |             |
+|   4x100 m StG        | Ihl, Beyer, Tilch, Winkler |      (22) |  50,12 s    |
+|  60 m Hürden U 14    | Elisa Halang               | 00(13)    | 9,91 s      |
+|  60 m Hürden (76 cm) | Jennifer Ihl               | 96(13)    | 9,54 s      |
+|  60 m Hürden (84 cm) | Sarah Storch               | 95(16)    | 9,38 s      |
+|  80 m Hürden         | Lydia Pitzler              | 95(10)    | 12,74 s     |
+|                      | Elisa Halang               | 00(15)    | 12,74 s     |
+| 100 m Hürden (76 cm) | Sophie Bachmann            | 98(15)    | 15,01 s     |
+| 100 m Hürden (84 cm) | Sarah Storch               | 95(16)    | 15,67 s     |
+| 300 m Hürden         | Jessica Thiel              | 96(11)    | 47,56 s     |
+| 400 m  Hürden        | Julia Winkler              | 82(12)    | 68,59 s     |
+| Weitsprung           | Jennifer Ihl               | 96(15)    | 5,50 m      |
+| Hochsprung           | Katharina Grobitzsch       | 98(23)    | 1,62 m      |
+| Hochsprung (Halle)   | Elisa Halang               | 00(15)    | 1,63 m      |
+| Dreisprung           | Jennifer Ihl               | 96(16)    | 11,34 m     |
+| Dreisprung(Halle)    | Jennifer Ihl               | 96(17)    | 11,48 m     |
+| 5 er Sprunglauf      | Sophie Bachmann            | 98(16)    | 17,21 m     |
+| Stabhochsprung       | Kristin Hösel              | 88(08)    | 3,45 m      |
+| Ball (200 g)         | Karolin Hachenberger       | 84(97)    | 59,76 m     |
+| Speer (600 g)        | Katharina Grobitzsch       | 98(23)    | 39,84 m     |
+| Speer (500 g)        | Katharina Grobitzsch       | 98(13)    | 34,36 m     |
+| Speer (400 g)        | Elisa Halang               | 00(13)    | 29,55 m     |
+| Diskus (1 kg)        | Sophie Zeller              | 93(11)    | 36,89 m     |
+| Diskus (750 g)       | Elisa Halang               | 00(13)    | 26,40 m     |
+| Kugel (4kg)          | Sophie Zeller              | 93(15)    | 11,15 m     |
+| Kugel (3kg)          | Sophie Zeller              | 93(10)    | 11,80 m     |
+| Kugel (2 Kg)         |                            |           |             |
+| Hammer (4 kg)        | Sophie Zeller              | 93 (13)   | 23,31 m     |
+| Gewicht (9,08 kg)    | Katharina Grobitzsch       | 98 (23)   | 6,04 m      |
+| Schleuderball (1 kg) | Sophie Zeller              | 93 (13)   | 40,75 m     |
+| Keule (250g)         | Katharina Grobitzsch       | 98 (23)   | 47,56 m     |
+| 5-Kampf              | Carolin Braun              | 90(03)    | 2579 Pkt.   |
+| 7-Kampf              | Kristin Hösel              | 88(07)    | 4015 Pkt.   |
+| Block Sprint/Sprung  | Odette Börner              | 87(02)    | 2557 Pkt.   |
+| Block Wurf           | Elisa Halang               | 00(15)    | 2502 Pkt.   |
+| Block Lauf           | Kristin Hösel              | 88(03)    | 2452 Pkt.   |
+| Werfersechskampf     | Sophie Zeller              | 93 (13)   | 3068 Pkt.   |
+| Werferfünfkampf      | Katharina Grobitzsch       | 98 (23)   | 1817 Pkt.   |
 
 ## TVL-Rekorde männlich
 
-|Disziplin|Athletin|Jahr|Resultat|
-|:----|:----|:----|:----|
-|50 m|Santo Somogyi|85(98)|7,47 s|
-|60 m (Halle)|Dirk Ziegenbalg|85(04)|6,96 s|
-|75 m (U 14)|Dennis Titow|91(04)|9,56 s |
-|75 m (U 16)|Dennis Titow|91(06)|8,92 s|
-|75 m|Sven Küchenmeister|99(17)|9,05 s|
-|100 m|Dirk Ziegenbalg|85(04)|10,86 s|
-|200 m|Dirk Ziegenbalg|85(03)|22,1 s |
-|300 m|Dennis Titow|91(06) |37,37 s|
-|400 m|Marcus Müller|83(05) |50,13 s|
-|800 m|Marcus Müller |83(05) |1:57,57 min |
-|1000 m|Ralph Matthes|68(07)|02:41,9|
-|1500 m|Ralph Matthes| | |
-|3000 m| | | |
-|60 m Hürden (U 14)|Dennis Titow|91(04)|9,39 s|
-|60 Hü (Halle 0,84 cm)|Dennis Titow|91(06)|8,25 s|
-|60 Hü (Halle 0,91 cm)|Dennis Titow|91(08)|8,18 s|
-|60 Hü (Halle 0,99 cm)| | | |
-|60 Hü (Halle 1,06 m)|Christoh Lange (ohne SR))|91(15)|8,31 s|
-|80 m Hürden|Dennis Titow|91(06)|10,60 s |
-|110 m Hürden (1,06)|Christoph Lange|91(15)|15,10 s|
-|300 m Hürden|Tommy Lorenz|88(03)|44,9 s|
-|400 m  Hürden|Marcus Müller|83(05)|54,93 s|
-|2000 m Hindernis|Lukas Stützner|99(15)|7:17,10 min|
-|Weitsprung|Rocco Schwippel|77(93)|6,53 m|
-|Weitsprung|Christoph Lange|91 (15)|6,91 m|
-|Weitsprung (Halle)|Christoph Lange|91 (15)|6,97 m|
-|Hochsprung|Paul Aderhold|92(07)|1,76 m|
-|Hochsprung|Christoph Lange|91 (15)|1,97 m|
-|Dreisprung|Rob Schubert|91(08)|12,95 m|
-|Dreisprung|Christoph Lange|91(15)|14,28 m|
-|5 er SPL|Noel Kaden|06/(22)|17,12 m|
-|Stabhochsprung|Paul Aderhold|92(07)|4,20 m|
-|Stabhochsprung|Christoph Lange|91(15)|4,50 m|
-|Stabhochsprung (Halle)|Christoph Lange|91(15)|4,55 m|
-|Ball (200 g)|Rob Schubert|91(06)|69,00 m|
-|Speer (800 g)|Ronny Peschel|86(05)|58,78 m|
-|Speer (700 g)|Paul Aderhold|92(08)|47,90 m|
-|Sperr (600 g)|Rob Schubert|91(06)|46,27 m|
-|Speer (400 g)|Wagner Nils|10(23)|33,28 m|
-|Diskus (2,0 kg)|Jürgen Müller|69(08)|41,66m|
-|Diskus (1,75 kg)|Ronny Peschel|86(05)|44,34 m|
-|Diskus (1,5 kg)|Daniel Tschentscher|89(06)|42,48 m|
-|Diskus (1,0 kg)|Daniel Tschentscher|89(04)|46,23 m|
-|Diskus (0,75 kg)|Moritz Otto|05(18)|31,27 m|
-|Kugel (7,26 kg)|Ronny Peschel|86(05)|14,78 m|
-|Kugel (6,0 kg)|Ronny Peschel|86(05)|16,72 m|
-|Kugel (5,0 Kg)|Dennis Titow|91(07)|13,36 m|
-|Kugel (4,0 kg)|Daniel Tschentscher|89(04)|14,48 m|
-|Kugel (3,0 kg)|Moritz Otto|05(18)|13,07 m|
-|Kugel (2,0 Kg)|Janne Nobst|10 (22)|9,98 m|
-|Hammer (7,26 kg)|Jürgen Müller|69(07)|36,61 m|
-|Hammer (6kg)|Sylvio Christ|70(22)|26,78 m|
-|Hammer (5 kg)|Steffen Kanthack|63 (23)|20,68 m|
-|Hammer (4kg)|Moritz Otto|05(20)|24,81 m|
-|Gewichtswurf (15,88 kg)|Jürgen Müller|69(08)|10,30 m|
-|Gewichtswurf (11,34 kg)|Sylvio Christ|70(21)|11,33 m|
-|Gewichtswurf (9,08 kg)|Steffen Kanthack|63 (23)|11,09 m|
-|Schleuderball (1,5 kg)|Daniel Tschentscher|89(14)|50,53 m|
-|Schleuderball (1,0 kg)|Steffen Kanthack|63 (23)|36,61 m|
-|Keule 500 g|Daniel Tschentscher|89(14)|61,04 m|
-|Keule 250 g|Steffen Kanthack|63 (23)|46,11 m|
-|5-Kampf U 14|Dennis Titow|91(04)|2570 Pkt.|
-|8-Kampf|Dennis Titow|91(06)|4671 Pkt.|
-|7-Kampf (Halle)|Christoph Lange|91(15)|5267 Pkt.|
-|10-Kampf|Daniel Tschentscher|89(16)|5289 Pkt.|
-|10-Kampf|Christoph Lange|91(15)|7078 Pkt. (Wi)|
-|Block Sprint/Sprung|Dennis Titow|91(06)|2911 Pkt.|
-|Block Wurf|Dennis Titow|91(06)|3042 Pkt.|
-|Block Lauf|Dennis Titow|91(05)|2594 Pkt.|
-|Werferfünfkampf|Jürgen Müller|69 (09)|2854 Pkt.|
-|Werfersechskampf|Daniel Tschentscher|89(13)|3105 Pkt.|
-
+| Disziplin               | Athletin                  | Jahr    | Resultat       |
+|:------------------------|:--------------------------|:--------|:---------------|
+| 50 m                    | Santo Somogyi             | 85(98)  | 7,47 s         |
+| 60 m (Halle)            | Dirk Ziegenbalg           | 85(04)  | 6,96 s         |
+| 75 m (U 14)             | Dennis Titow              | 91(04)  | 9,56 s         |
+| 75 m (U 16)             | Dennis Titow              | 91(06)  | 8,92 s         |
+| 75 m                    | Sven Küchenmeister        | 99(17)  | 9,05 s         |
+| 100 m                   | Dirk Ziegenbalg           | 85(04)  | 10,86 s        |
+| 200 m                   | Dirk Ziegenbalg           | 85(03)  | 22,1 s         |
+| 300 m                   | Dennis Titow              | 91(06)  | 37,37 s        |
+| 400 m                   | Marcus Müller             | 83(05)  | 50,13 s        |
+| 800 m                   | Marcus Müller             | 83(05)  | 1:57,57 min    |
+| 1000 m                  | Ralph Matthes             | 68(07)  | 02:41,9        |
+| 1500 m                  | Ralph Matthes             |         |                |
+| 3000 m                  |                           |         |                |
+| 60 m Hürden (U 14)      | Dennis Titow              | 91(04)  | 9,39 s         |
+| 60 Hü (Halle 0,84 cm)   | Dennis Titow              | 91(06)  | 8,25 s         |
+| 60 Hü (Halle 0,91 cm)   | Dennis Titow              | 91(08)  | 8,18 s         |
+| 60 Hü (Halle 0,99 cm)   |                           |         |                |
+| 60 Hü (Halle 1,06 m)    | Christoh Lange (ohne SR)) | 91(15)  | 8,31 s         |
+| 80 m Hürden             | Dennis Titow              | 91(06)  | 10,60 s        |
+| 110 m Hürden (1,06)     | Christoph Lange           | 91(15)  | 15,10 s        |
+| 300 m Hürden            | Tommy Lorenz              | 88(03)  | 44,9 s         |
+| 400 m  Hürden           | Marcus Müller             | 83(05)  | 54,93 s        |
+| 2000 m Hindernis        | Lukas Stützner            | 99(15)  | 7:17,10 min    |
+| Weitsprung              | Rocco Schwippel           | 77(93)  | 6,53 m         |
+| Weitsprung              | Christoph Lange           | 91 (15) | 6,91 m         |
+| Weitsprung (Halle)      | Christoph Lange           | 91 (15) | 6,97 m         |
+| Hochsprung              | Paul Aderhold             | 92(07)  | 1,76 m         |
+| Hochsprung              | Christoph Lange           | 91 (15) | 1,97 m         |
+| Dreisprung              | Rob Schubert              | 91(08)  | 12,95 m        |
+| Dreisprung              | Christoph Lange           | 91(15)  | 14,28 m        |
+| 5 er SPL                | Noel Kaden                | 06/(22) | 17,12 m        |
+| Stabhochsprung          | Paul Aderhold             | 92(07)  | 4,20 m         |
+| Stabhochsprung          | Christoph Lange           | 91(15)  | 4,50 m         |
+| Stabhochsprung (Halle)  | Christoph Lange           | 91(15)  | 4,55 m         |
+| Ball (200 g)            | Rob Schubert              | 91(06)  | 69,00 m        |
+| Speer (800 g)           | Ronny Peschel             | 86(05)  | 58,78 m        |
+| Speer (700 g)           | Paul Aderhold             | 92(08)  | 47,90 m        |
+| Sperr (600 g)           | Rob Schubert              | 91(06)  | 46,27 m        |
+| Speer (400 g)           | Wagner Nils               | 10(23)  | 33,28 m        |
+| Diskus (2,0 kg)         | Jürgen Müller             | 69(08)  | 41,66m         |
+| Diskus (1,75 kg)        | Ronny Peschel             | 86(05)  | 44,34 m        |
+| Diskus (1,5 kg)         | Daniel Tschentscher       | 89(06)  | 42,48 m        |
+| Diskus (1,0 kg)         | Daniel Tschentscher       | 89(04)  | 46,23 m        |
+| Diskus (0,75 kg)        | Moritz Otto               | 05(18)  | 31,27 m        |
+| Kugel (7,26 kg)         | Ronny Peschel             | 86(05)  | 14,78 m        |
+| Kugel (6,0 kg)          | Ronny Peschel             | 86(05)  | 16,72 m        |
+| Kugel (5,0 Kg)          | Dennis Titow              | 91(07)  | 13,36 m        |
+| Kugel (4,0 kg)          | Daniel Tschentscher       | 89(04)  | 14,48 m        |
+| Kugel (3,0 kg)          | Moritz Otto               | 05(18)  | 13,07 m        |
+| Kugel (2,0 Kg)          | Janne Nobst               | 10 (22) | 9,98 m         |
+| Hammer (7,26 kg)        | Jürgen Müller             | 69(07)  | 36,61 m        |
+| Hammer (6kg)            | Sylvio Christ             | 70(22)  | 26,78 m        |
+| Hammer (5 kg)           | Steffen Kanthack          | 63 (23) | 20,68 m        |
+| Hammer (4kg)            | Moritz Otto               | 05(20)  | 24,81 m        |
+| Gewichtswurf (15,88 kg) | Jürgen Müller             | 69(08)  | 10,30 m        |
+| Gewichtswurf (11,34 kg) | Sylvio Christ             | 70(21)  | 11,33 m        |
+| Gewichtswurf (9,08 kg)  | Steffen Kanthack          | 63 (23) | 11,09 m        |
+| Schleuderball (1,5 kg)  | Daniel Tschentscher       | 89(14)  | 50,53 m        |
+| Schleuderball (1,0 kg)  | Steffen Kanthack          | 63 (23) | 36,61 m        |
+| Keule 500 g             | Daniel Tschentscher       | 89(14)  | 61,04 m        |
+| Keule 250 g             | Steffen Kanthack          | 63 (23) | 46,11 m        |
+| 5-Kampf U 14            | Dennis Titow              | 91(04)  | 2570 Pkt.      |
+| 8-Kampf                 | Dennis Titow              | 91(06)  | 4671 Pkt.      |
+| 7-Kampf (Halle)         | Christoph Lange           | 91(15)  | 5267 Pkt.      |
+| 10-Kampf                | Daniel Tschentscher       | 89(16)  | 5289 Pkt.      |
+| 10-Kampf                | Christoph Lange           | 91(15)  | 7078 Pkt. (Wi) |
+| Block Sprint/Sprung     | Dennis Titow              | 91(06)  | 2911 Pkt.      |
+| Block Wurf              | Dennis Titow              | 91(06)  | 3042 Pkt.      |
+| Block Lauf              | Dennis Titow              | 91(05)  | 2594 Pkt.      |
+| Werferfünfkampf         | Jürgen Müller             | 69 (09) | 2854 Pkt.      |
+| Werfersechskampf        | Daniel Tschentscher       | 89(13)  | 3105 Pkt.      |
 
 ## Stadionrekorde weiblich
 
-|Disziplin|Athletin|Verein|Resultat|Jahr|
-|:----|:----|:----|:----|:----|
-| 50 m|Jennifer Ihl |TVL Freiberg |7,55 s|2007|
-|75 m|Pauline Winler|TVL Freiberg|9,84 s|2023|
-|75 m U14|Marie Magdalena Beck|SC DHfK Leipzig|9,92 s|2020|
-| | | | | |
-|100 m|Pauline Winkler|TVL Freiberg|11,98 s|2023|
-|150 m|Anna Wagner|SG Weißig 1861|19,18 s|2020|
-|200 m|Pauline Winkler|TVL Freiberg|24,64 s|2023|
-|300 m|Anna Weichelt|TSG Oederan|42,53 s|2020|
-|400 m|Nataliia Besidovska|Dresdner SC|57,02 s|2022|
-|800 m|Nelly Herold|LAC Erdgas Chemnitz|02:17,9|2023|
-|1500 m|Chris Nitschke|LG Mittweida|05:08,2|2016|
-|5000 m|Gabriele Honscha|SV Automation Leipzig|18:23,9|2023|
-|2000 m BG|Lara Ackermann|LG Vogtland|11:41,5|2020|
-|4x75 m| |SC DHfK Leipzig|38,72 s|2020|
-|4x100 m| |StG Freiberg|50,33 s|2022|
-|60 Hü|Friedericke Domann|PSV Bernburg|9,55 s|2020|
-|80 m Hürden|Isabell Günl|LAC Erdgas Chemnitz|11,83 s|2010|
-|100 m Hürden(76)|Anne Weigold|LG Mittweida|14,74 s|2015|
-|100 m Hürden(84)|Anne Weigold|LG Mittweida|13,94 s|2016|
-|300 m Hürden|Kitty Schober|LG Altenburger Land|47,93 s|2002|
-|400 m Hürden|Antje Barthel|Bautzner LV Rot-Weiß|63,88 s|2007|
-|Weitsprung|Lea-Jasmin Riecke|Mitteldeutscher SC| 6,23 m|2022|
-|Hochsprung|Maja Küßner|1.LAV Rostock|1,73 m|2020|
-|Dreisprung|Lea-Sopkie Klik|LAC Erdgas Chemnitz|12,21 m|2022|
-|5 er Sprunglauf|Sophie Bachmann|TVL Freiberg|17,21 m|2016|
-|Stabhoch|Karen Eltzschig|SG MOGONO|4,01 m|2015|
-| |Cassandra Hennig|SC DHfK Leipzig|4,01 m|2015|
-|Kugel (4kg)|Jara Graf|LG Mittweida|14,29 m|2023|
-|Kugel (3kg)|Sandy Uhlig|LG Mittweida|14,88 m|2016|
-|Kugel (2kg)|Johanna Skarke|Döbelner Sc 02/90|11,22 m|2021|
-|Diskus (1kg)|Jara Graf|LG Mittweida|42,10 m|2021|
-| | | | | |
-|Diskus (0,75kg)|Johanna Skarke|Döbelner Sc 02/90| 30,41 m|2021|
-|Speer (600g)|Ulrike Schmidt|LG Mittweida|46,65 m|2023|
-|Speer (500g)|Ulrike Schmidt|LG Mittweida|44,83 m|2020|
-|Sperr (400g)|Carlotta Reisky|SC Riesa|35,58  m|2023|
-
+| Disziplin        | Athletin             | Verein                | Resultat | Jahr |
+|:-----------------|:---------------------|:----------------------|:---------|:-----|
+|  50 m            | Jennifer Ihl         | TVL Freiberg          | 7,55 s   | 2007 |
+| 75 m             | Pauline Winler       | TVL Freiberg          | 9,84 s   | 2023 |
+| 75 m U14         | Marie Magdalena Beck | SC DHfK Leipzig       | 9,92 s   | 2020 |
+|                  |                      |                       |          |      |
+| 100 m            | Pauline Winkler      | TVL Freiberg          | 11,98 s  | 2023 |
+| 150 m            | Anna Wagner          | SG Weißig 1861        | 19,18 s  | 2020 |
+| 200 m            | Pauline Winkler      | TVL Freiberg          | 24,64 s  | 2023 |
+| 300 m            | Anna Weichelt        | TSG Oederan           | 42,53 s  | 2020 |
+| 400 m            | Nataliia Besidovska  | Dresdner SC           | 57,02 s  | 2022 |
+| 800 m            | Nelly Herold         | LAC Erdgas Chemnitz   | 02:17,9  | 2023 |
+| 1500 m           | Chris Nitschke       | LG Mittweida          | 05:08,2  | 2016 |
+| 5000 m           | Gabriele Honscha     | SV Automation Leipzig | 18:23,9  | 2023 |
+| 2000 m BG        | Lara Ackermann       | LG Vogtland           | 11:41,5  | 2020 |
+| 4x75 m           |                      | SC DHfK Leipzig       | 38,72 s  | 2020 |
+| 4x100 m          |                      | StG Freiberg          | 50,33 s  | 2022 |
+| 60 Hü            | Friedericke Domann   | PSV Bernburg          | 9,55 s   | 2020 |
+| 80 m Hürden      | Isabell Günl         | LAC Erdgas Chemnitz   | 11,83 s  | 2010 |
+| 100 m Hürden(76) | Anne Weigold         | LG Mittweida          | 14,74 s  | 2015 |
+| 100 m Hürden(84) | Anne Weigold         | LG Mittweida          | 13,94 s  | 2016 |
+| 300 m Hürden     | Kitty Schober        | LG Altenburger Land   | 47,93 s  | 2002 |
+| 400 m Hürden     | Antje Barthel        | Bautzner LV Rot-Weiß  | 63,88 s  | 2007 |
+| Weitsprung       | Lea-Jasmin Riecke    | Mitteldeutscher SC    |  6,23 m  | 2022 |
+| Hochsprung       | Maja Küßner          | 1.LAV Rostock         | 1,73 m   | 2020 |
+| Dreisprung       | Lea-Sopkie Klik      | LAC Erdgas Chemnitz   | 12,21 m  | 2022 |
+| 5 er Sprunglauf  | Sophie Bachmann      | TVL Freiberg          | 17,21 m  | 2016 |
+| Stabhoch         | Karen Eltzschig      | SG MOGONO             | 4,01 m   | 2015 |
+|                  | Cassandra Hennig     | SC DHfK Leipzig       | 4,01 m   | 2015 |
+| Kugel (4kg)      | Jara Graf            | LG Mittweida          | 14,29 m  | 2023 |
+| Kugel (3kg)      | Sandy Uhlig          | LG Mittweida          | 14,88 m  | 2016 |
+| Kugel (2kg)      | Johanna Skarke       | Döbelner Sc 02/90     | 11,22 m  | 2021 |
+| Diskus (1kg)     | Jara Graf            | LG Mittweida          | 42,10 m  | 2021 |
+|                  |                      |                       |          |      |
+| Diskus (0,75kg)  | Johanna Skarke       | Döbelner Sc 02/90     |  30,41 m | 2021 |
+| Speer (600g)     | Ulrike Schmidt       | LG Mittweida          | 46,65 m  | 2023 |
+| Speer (500g)     | Ulrike Schmidt       | LG Mittweida          | 44,83 m  | 2020 |
+| Sperr (400g)     | Carlotta Reisky      | SC Riesa              | 35,58  m | 2023 |
 
 ## Stadionrekorde männlich
 
-|Disziplin|Athletin|Verein|Resultat|Jahr|
-|:----|:----|:----|:----|:----|
-|50 m|Anton Carolus|SV Elbland Meißen|7,42 s|2021|
-|75 m|Sven Küchenmeister|TVL Freiberg|9,05 s|2016|
-|75 m U 14|Ernst Bruno Eltz|Turbine Halle|9,51 s|2020|
-|100 m|Dirk Ziegenbalg|TVLFreiberg/LV 90 Thum|10,8 s|2003|
-| |Tim Becker|Mitteldeutscher SC|10,99 s|2022|
-|200 m|Florian Heinich|LG Mittweida|21,99 s|2017|
-|300 m|Raphael Maidorn|LAC Erdgas Chemnitz|37,87 s|2007|
-|400 m|Ruben Poguntke |WSG Schwarzenberg-Wildenau|49,57 s|2002|
-|800 m|Piet Enzmann|SG MoGoNo|01:54,6|2021|
-|1500 m|Job Daniel Damo|Post SV Dresden|04:18,1|2021|
-|3000 m|Felix Timmel|SV Mühlbach|09:10,8|2012|
-|5000 m|Patrick Koburger|SV Vorwärts Zwickau|16:40,5|2023|
-|2000 m BG|Lukas Rosenbaum|Stentaler LV|09:09,8|2020|
-|4x75 m| |SC DHfK Leipzig|37,47 s|2020|
-|60 m Hürden|Ernst Bruno Eltz|Turbine Halle|9,37 s|2020|
-|80 m Hürden|Patrick Elger|LAC Erdgas Chemnitz|10,86 s|2011|
-|110 m Hürden|Christopher Wolf|LAC Erdgas Chemnitz|14,97 s|2008|
-|400 m Hürden|Raphael Maidorn|LAC Erdgas Chemnitz|57,03 s|2008|
-|Weitsprung|Vincent Vogel|LAC Erdgas Chemnitz|7,27 m|2021|
-|Hochsprung|Jonas Wagner|Dresdner SC 1898|2,03 m|2016|
-|Dreisprung|Paul Walschburger|LG Stadwerke Münschen|15,28 m|2021|
-|5 er Sprunglauf|Jamie Fischer|TSV Wechselburg|17,47 m|2023|
-|Kugel (7,25 Kg)|Lukas Schober|SG Weißig 1861|17,65 m|2023|
-|Kugel (6 kg)|Lukas Schober|SG Weißig 1861|19,14 m|2022|
-|Kugel (5 kg)|Patrick Biendara|Döbelner SC 02/90|15,21 m|2023|
-|Kugel (4 kg)|Tony Zeuke|LV 90 Thum|17,99 m|2011|
-|Kugel (3 kg)|Patrick Biendara|Döbelner SC 02/90|13,78 m|2019|
-|Kugel (2 kg)|Yannis Ludwig|SSV 91 Brand-Erbisdorf|11,88 m|2021|
-|Diskus (2 Kg)|Magnus Zimmermann|SV Halle|51,85 m|2021|
-|Diskus (1,75 kg)|Magnus Zimmermann|SV Halle|54,65 m|2020|
-|Diskus (1,5 kg)|Helmut Maryniak|LAC Passau|51,84 m|2020|
-|Diskus (1,0 kg)|Jaroslav Smely|ASK Lovosice|61,80 m|2023|
-|Diskus (0,75 kg)|Jaroslav Smely|ASK Lovosice|47,69 m|2021|
-|Speer 800 g|Mario Lohmann|LG Mittweida|69,09 m|2009|
-|Speer 700 g|Daniel Ahlendorf|LAC Erdgas Chemnitz|51,40 m|2011|
-|Speer 600 g|Lars Kühn|LV 90 Thum|48,71 m|2002|
-|Speer 400 g|Emil Wydmuch|Tangermünder LV|54,65 m|2020|
-|Stabhochsprung|Benjamin Proske|Bluechip Athletics e.V.|4,75 m|2007|
-|Ball (200g)|Stefan Jungmichel|SG MoGoNo Leipzig|75,60 m|2011|
-
+| Disziplin        | Athletin           | Verein                     | Resultat | Jahr |
+|:-----------------|:-------------------|:---------------------------|:---------|:-----|
+| 50 m             | Anton Carolus      | SV Elbland Meißen          | 7,42 s   | 2021 |
+| 75 m             | Sven Küchenmeister | TVL Freiberg               | 9,05 s   | 2016 |
+| 75 m U 14        | Ernst Bruno Eltz   | Turbine Halle              | 9,51 s   | 2020 |
+| 100 m            | Dirk Ziegenbalg    | TVLFreiberg/LV 90 Thum     | 10,8 s   | 2003 |
+|                  | Tim Becker         | Mitteldeutscher SC         | 10,99 s  | 2022 |
+| 200 m            | Florian Heinich    | LG Mittweida               | 21,99 s  | 2017 |
+| 300 m            | Raphael Maidorn    | LAC Erdgas Chemnitz        | 37,87 s  | 2007 |
+| 400 m            | Ruben Poguntke     | WSG Schwarzenberg-Wildenau | 49,57 s  | 2002 |
+| 800 m            | Piet Enzmann       | SG MoGoNo                  | 01:54,6  | 2021 |
+| 1500 m           | Job Daniel Damo    | Post SV Dresden            | 04:18,1  | 2021 |
+| 3000 m           | Felix Timmel       | SV Mühlbach                | 09:10,8  | 2012 |
+| 5000 m           | Patrick Koburger   | SV Vorwärts Zwickau        | 16:40,5  | 2023 |
+| 2000 m BG        | Lukas Rosenbaum    | Stentaler LV               | 09:09,8  | 2020 |
+| 4x75 m           |                    | SC DHfK Leipzig            | 37,47 s  | 2020 |
+| 60 m Hürden      | Ernst Bruno Eltz   | Turbine Halle              | 9,37 s   | 2020 |
+| 80 m Hürden      | Patrick Elger      | LAC Erdgas Chemnitz        | 10,86 s  | 2011 |
+| 110 m Hürden     | Christopher Wolf   | LAC Erdgas Chemnitz        | 14,97 s  | 2008 |
+| 400 m Hürden     | Raphael Maidorn    | LAC Erdgas Chemnitz        | 57,03 s  | 2008 |
+| Weitsprung       | Vincent Vogel      | LAC Erdgas Chemnitz        | 7,27 m   | 2021 |
+| Hochsprung       | Jonas Wagner       | Dresdner SC 1898           | 2,03 m   | 2016 |
+| Dreisprung       | Paul Walschburger  | LG Stadwerke Münschen      | 15,28 m  | 2021 |
+| 5 er Sprunglauf  | Jamie Fischer      | TSV Wechselburg            | 17,47 m  | 2023 |
+| Kugel (7,25 Kg)  | Lukas Schober      | SG Weißig 1861             | 17,65 m  | 2023 |
+| Kugel (6 kg)     | Lukas Schober      | SG Weißig 1861             | 19,14 m  | 2022 |
+| Kugel (5 kg)     | Patrick Biendara   | Döbelner SC 02/90          | 15,21 m  | 2023 |
+| Kugel (4 kg)     | Tony Zeuke         | LV 90 Thum                 | 17,99 m  | 2011 |
+| Kugel (3 kg)     | Patrick Biendara   | Döbelner SC 02/90          | 13,78 m  | 2019 |
+| Kugel (2 kg)     | Yannis Ludwig      | SSV 91 Brand-Erbisdorf     | 11,88 m  | 2021 |
+| Diskus (2 Kg)    | Magnus Zimmermann  | SV Halle                   | 51,85 m  | 2021 |
+| Diskus (1,75 kg) | Magnus Zimmermann  | SV Halle                   | 54,65 m  | 2020 |
+| Diskus (1,5 kg)  | Helmut Maryniak    | LAC Passau                 | 51,84 m  | 2020 |
+| Diskus (1,0 kg)  | Jaroslav Smely     | ASK Lovosice               | 61,80 m  | 2023 |
+| Diskus (0,75 kg) | Jaroslav Smely     | ASK Lovosice               | 47,69 m  | 2021 |
+| Speer 800 g      | Mario Lohmann      | LG Mittweida               | 69,09 m  | 2009 |
+| Speer 700 g      | Daniel Ahlendorf   | LAC Erdgas Chemnitz        | 51,40 m  | 2011 |
+| Speer 600 g      | Lars Kühn          | LV 90 Thum                 | 48,71 m  | 2002 |
+| Speer 400 g      | Emil Wydmuch       | Tangermünder LV            | 54,65 m  | 2020 |
+| Stabhochsprung   | Benjamin Proske    | Bluechip Athletics e.V.    | 4,75 m   | 2007 |
+| Ball (200g)      | Stefan Jungmichel  | SG MoGoNo Leipzig          | 75,60 m  | 2011 |

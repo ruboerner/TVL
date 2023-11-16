@@ -8,15 +8,22 @@ TVL Freiberg e.V. --- was bedeutet denn das?
 
 Unser Verein hat mit Stand vom 1.1.2023 **80 Mitglieder**.
 
-Unsere Trainingsstätten befinden sich im Sommer -- von Ostern bis Ende Oktober -- auf dem Platz der Einheit, im Winter -- von Ende Oktober bis Ostern -- in der Heubnerhalle, Dörnerzaunstraße.
+Unsere Trainingsstätten befinden sich im Sommer -- von Ostern bis Ende Oktober -- auf dem Stadion "Platz der Einheit", im Winter -- von Ende Oktober bis Ostern -- in der Heubner-Sporthalle, Dörnerzaunstraße 4.
 
+::: {layout-ncol="2"}
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2515.9335222988993!2d13.313126476937361!3d50.90644615442627!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47a75fbef7457c55%3A0x6e1bda08e74bf667!2sStadion%20%22Platz%20der%20Einheit%22!5e0!3m2!1sde!2sde!4v1700130660850!5m2!1sde!2sde" width="320" height="240" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2515.611282767202!2d13.3410357!3d50.912408299999996!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47a75ff93d3977b1%3A0xb06051d6fdd509cc!2sHeubner-Sporthalle!5e0!3m2!1sde!2sde!4v1700130611343!5m2!1sde!2sde" width="320" height="240" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+:::
 ### Geschäftsstelle
 
 Platz der Einheit\
 Chemnitzer Straße 137\
 09599 Freiberg
 
-email:[christ\@tvl-freiberg.de](mailto:christ@tvl-freiberg.de)
+email: [christ\@tvl-freiberg.de](mailto:christ@tvl-freiberg.de)
 
 ### Vorsitzender
 
@@ -29,7 +36,7 @@ Tel: 0173-3663178
 
 Für eine Mitgliedschaft im Verein musst Du mindestens 6 Jahre alt sein.
 
-Wenn Du mitmachen möchtest, kannst Du gern zum Schnuppern vorbeikommen. Anschließend müssen Deine Eltern einen Mitgliedsantrag für Dich stellen. Den könnt ihr [hier](Aufnahmeantrag_TVL.pdf) herunterladen, ausfüllen und zum Training mitbringen.
+Du bist herzlich eingeladen, an einer Probestunde teilzunehmen und beim Training mitzumachen. Falls du dich dazu entscheidest, regelmäßig am Vereinstraining teilzunehmen, bitten wir deine Eltern, einen Mitgliedsantrag für dich auszufüllen. Diesen kannst du [hier](Aufnahmeantrag_TVL.pdf) herunterladen, komplettieren und zum Training mitbringen.
 
 ### Mitgliedsbeiträge
 

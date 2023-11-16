@@ -9,10 +9,14 @@ website:
   navbar:
     title: "TVL Freiberg e.V."
     
-    collapse-below: lg
+    collapse-below: xl
     right: 
       - text: "Der Verein"
-        href: verein.qmd
+        menu:
+          - text: "Über uns"
+            href: verein.qmd
+          - text: "Trainerteam"
+            href: trainer.qmd
       - text: "Wettkämpfe"
         menu:
           - text: "Geplante Wettkämpfe"
@@ -23,10 +27,10 @@ website:
         href: trainingszeiten.qmd
       - text: "Erfolge"
         menu:
-          - text: "2023"
-            href: erfolge_2023.qmd
-          - text: "2022"
-            href: erfolge_2022.qmd
+#          - text: "2023"
+#            href: erfolge_2023.qmd
+#          - text: "2022"
+#            href: erfolge_2022.qmd
           - text: "Rekorde"
             href: rekorde.qmd
 
