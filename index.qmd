@@ -11,6 +11,8 @@ listing:
 
 Hier erhältst du Informationen über aktuelle Wettkämpfe, unsere Athletinnen und Athleten sowie die Trainerinnen und Trainer. Schau dich gerne um!
 
+Du möchtest bei uns trainieren? Dann geht's [hier entlang.](mitglied.qmd)
+
 ## Aktuelles
 
 Die neuesten Informationen sind hier zu finden:

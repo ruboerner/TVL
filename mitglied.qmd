@@ -1,0 +1,24 @@
+---
+title: "Mitglied werden"
+---
+
+### Du möchtest bei uns trainieren?
+
+
+::: {layout-ncol="2"}
+![](images/laufen.jpg)
+
+Für eine Mitgliedschaft im Verein musst Du mindestens 6 Jahre alt sein.
+<br><br>
+Du bist herzlich eingeladen, an einer Probestunde teilzunehmen und beim Training mitzumachen. Falls du dich dazu entscheidest, regelmäßig am Vereinstraining teilzunehmen, bitten wir deine Eltern, einen Mitgliedsantrag für dich auszufüllen. Diesen kannst du [hier](Aufnahmeantrag_TVL.pdf) herunterladen, komplettieren und zum Training mitbringen.
+:::
+
+### Mitgliedsbeiträge
+
+Der monatliche Vereinsbeitrag beträgt für\...
+
+|                    |     |
+|--------------------|-----|
+| Kinder bis 9 Jahre | 5 € |
+| Kinder ab 10 Jahre | 7 € |
+| Erwachsene         | 7 € |
