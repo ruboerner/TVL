@@ -1,5 +1,5 @@
 ---
-title: "9. Werfertag 2023"
+title: "9\\. Werfertag 2023"
 description: "Freiberg"
 date: 2023-09-24
 author: RUB

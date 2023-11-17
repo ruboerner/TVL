@@ -9,8 +9,18 @@ categories:
   - Wettkampf
 ---
 
-::: {layout-ncol="2"}
-![](index.jpg)
+Den Sonntag genutzt und am Crosslauf in Linda teilgenommen. Und wie heißt es so schön: "Er kam, sah und siegte." Bei seinem Debüt erreichte Luan genau das. Auch unser zweiter Teilnehmer Finley lief souverän zum Sieg und holte die Goldmedaille.
 
-Den Sonntag genutzt und zum Cross in Linda am Start gewesen. Und wie heißt es so schön: „Kam, sah und siegte.“ Bei seinem ersten Start gelang das Luan. Und auch unser zweiter Starter Finley lief souverän zu Gold.
+::: {layout-ncol="3"}
+![](index.jpg){width="300"}
+
+![](linda_02.jpg){width="300"}
+
+![](linda_03.jpg){width="300"}
+
+![](linda_04.jpg){width="300"}
+
+![](linda_05.jpg){width="300"}
+
+![](linda_06.jpg){width="300"}
 :::

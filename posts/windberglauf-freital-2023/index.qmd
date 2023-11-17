@@ -7,10 +7,11 @@ draft: false
 categories:
   - Erfolge
   - Wettkampf
+  - Cross
 ---
 
 ::: {layout-ncol="2"}
 ![](index.jpg)
 
-Den Sonntag genutzt und zum Cross in Linda am Start gewesen. Und wie heißt es so schön: „Er kam, sah und siegte." Bei seinem ersten Start gelang das Luan. Und auch unser zweiter Starter Finley lief souverän zu Gold.
+Windberglauf, eine feste Größe im Kalender unserer Läufer. Auch wenn wir in diesem Jahr nur eine Läuferin am Start hatten. Diese lief aber dafür von der Spitze weg als erste ins Ziel! Herzlichen Glückwunsch Lotta und weiter so!
 :::

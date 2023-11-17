@@ -1,0 +1,21 @@
+---
+title: "Landesmeisterschaften Crosslauf"
+description: "Zwickau"
+date: 2023-11-12
+author: Susanne Scholze
+draft: false
+categories:
+  - Erfolge
+  - Wettkampf
+  - Cross
+---
+
+Finley zeigte heute vollen Einsatz und lief so schnell wie möglich auf einer anspruchsvollen 2,2 km langen Strecke. In einem Feld von 33 Teilnehmern sicherte er sich einen herausragenden fünften Platz. Herzlichen Glückwunsch zu dieser beeindruckenden Leistung!
+
+::: {layout="[[1], [1,1]]"}
+![](cross_01.jpg)
+
+![](cross_02.jpg)
+
+![](cross_03.jpg)
+:::

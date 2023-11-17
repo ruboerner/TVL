@@ -1,5 +1,5 @@
 ---
-title: "12. Hallenmeisterschaften Mittelsachsen"
+title: "12\\. Hallenmeisterschaften Mittelsachsen"
 description: "Döbeln"
 date: 2023-11-11
 author: Ralph-Uwe Börner
@@ -11,4 +11,34 @@ categories:
 
 Zu den 12. Hallenmeisterschaften am 11.11.2023 in Döbeln trat der TVL Freiberg in großer Besetzung an und konnte zahlreiche Erfolge einfahren.
 
+In der Halle wurden zahlreiche Medaillen 🥇🥈🥉 verliehen, und sowohl erfahrene Wettkampfteilnehmer als auch unsere Erststarter haben herausragende Leistungen erbracht. Ein besonderer Dank geht an Katja, Elsa, Reni, Lotta, Thea, Cecilia, Selina, Philine, Jan und Nils – ihr habt euch hervorragend geschlagen!
+
+
 Die Ergebnisse gibt es [hier](https://ladv.de/ergebnis/datei/77806).
+
+::: {layout-ncol=3}
+
+![](döbeln_01.jpg){width=240}
+
+![](döbeln_02.jpg){width=240}
+
+![](döbeln_03.jpg){width=240}
+
+![](döbeln_05.jpg){width=240}
+
+![](döbeln_06.jpg){width=240}
+
+![](döbeln_07.jpg){width=240}
+
+![](döbeln_08.jpg){width=240}
+
+![](döbeln_09.jpg){width=240}
+
+![](döbeln_10.jpg){width=240}
+
+![](döbeln_11.jpg){width=240}
+
+![](döbeln_12.jpg){width=240}
+
+![](döbeln_13.jpg){width=240}
+:::

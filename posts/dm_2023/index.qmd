@@ -1,6 +1,6 @@
 ---
 title: "Deutsche Meisterschaft"
-description: "8. und 9. Juli 2023 in Kassel"
+description: "8\\. und 9\\. Juli 2023 in Kassel"
 date: 2023-07-08
 categories:
   - Erfolge

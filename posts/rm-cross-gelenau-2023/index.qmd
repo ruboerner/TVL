@@ -7,11 +7,28 @@ draft: false
 categories:
   - Erfolge
   - Wettkampf
+  - Cross
 ---
 
+Hervorragende Leistungen bei den Regionalmeisterschaften im Crosslauf: Jan Stöcker und Finley Max Wolf zeigten erneut ihre Ausdauerstärke und wurden Regionalmeister. Jan bewältigte die 1 km in beeindruckenden 3:29 Minuten, während Finley sich den Titel über 2 km holte und in 8:07 Minuten ins Ziel kam. Auch in der Altersklasse 8 überzeugten Katja Stöcker und Leeven Wolf, die den ersten und dritten Platz über die 1 km belegten.
 
-::: {layout-ncol="2"}
-![](image.jpg)
+::: {layout-ncol="3"}
+![](image.jpg){width=300}
 
-Erfolgreiche Regionalmeisterschaften im Crosslauf. Jan Stöcker und Finley Max Wolf bewiesen einmal mehr ihre Stärke im Ausdauerbereich und krönten sich zum Regionalmeister. Jan über die 1km in 3:29 min und Finley nahm die 2km in Angriff und lief 8:07 min. Katja Stöcker und Leeven Wolf liefen in der Altersklasse 8 einen Kilometer und belegten die Ränge eins und drei.
+![](gelenau_02.jpg){width=300}
+
+![](gelenau_03.jpg){width=300}
+
+![](gelenau_04.jpg){width=300}
+
+![](gelenau_05.jpg){width=300}
+
+![](gelenau_06.jpg){width=300}
+
+![](gelenau_07.jpg){width=300}
+
+![](gelenau_08.jpg){width=300}
+
+![](gelenau_09.jpg){width=300}
+
 :::
